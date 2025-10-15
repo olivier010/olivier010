@@ -15,7 +15,7 @@
 
 
 ### 📈 GitHub Contribution Activity  
-<p align="center">
+<p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=olivier010&theme=react-dark&bg_color=0D1117&hide_border=true" />
 </p>
 
@@ -23,7 +23,7 @@
 
 ### 🔥 My GitHub Stats  
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=olivier010&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
