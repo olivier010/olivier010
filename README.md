@@ -12,13 +12,7 @@
 
 ---
 
-### ✨ Projects I'm Proud Of  
 
-- 🎓 **Campus Community Forum** — A space for students to connect, share ideas, and grow.  
-- 🧾 **ePortfolio System** — A digital replacement for paper-based academic evidence collection *(React + JS)*  
-- 🛒 **Online Clothes Store** — A stylish and responsive eCommerce web app built with React + Tailwind CSS  
-
----
 
 ### 📈 GitHub Contribution Activity  
 <p align="center">
