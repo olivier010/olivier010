@@ -7,31 +7,29 @@
 
 ### 🚀 Tech Stack & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,js,react,python,java,figma,vscode,git,github&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,js,react,python,java,figma,vscode,git,github&theme=light" alt="Tech Stack Icons" />
 </p>
 
 ---
 
-
-
 ### 📈 GitHub Contribution Activity  
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=olivier010&theme=react-dark&bg_color=0D1117&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=olivier010&theme=react-dark&bg_color=0D1117&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---
 
 ### 🔥 My GitHub Stats  
 
-<p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=olivier010&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=olivier010&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivier010&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
@@ -52,10 +50,18 @@
 ### 📬 Let’s Connect  
 
 <p align="center">
-  <a href="https://linkedin.com/in/nsengiyumva-yves" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/Twitter/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://olivieryves.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nsengiyumva-yves-olivier" target="_blank" title="LinkedIn Profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/olivier010_" target="_blank" title="Twitter / X Profile">
+    <img src="https://img.shields.io/badge/Twitter%20(X)-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X" />
+  </a>
+  <a href="https://www.youtube.com/@olivieryves" target="_blank" title="YouTube Channel">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://olivieryves.netlify.app" target="_blank" title="Portfolio Website">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 ---
