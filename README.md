@@ -13,7 +13,7 @@
 ---
 
 ### 📈 GitHub Contribution Activity  
-<p>
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=olivier010&theme=react-dark&bg_color=0D1117&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
@@ -21,11 +21,19 @@
 
 ### 🔥 My GitHub Stats  
 
-<p>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=olivier010&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=olivier010&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivier010&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=olivier010&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+    <td align="center" width="33%">
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=olivier010&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="33%">
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivier010&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
