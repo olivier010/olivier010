@@ -22,15 +22,9 @@
 ### 🔥 My GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=olivier010&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=olivier010&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivier010&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=olivier010&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=olivier010&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivier010&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
