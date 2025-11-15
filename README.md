@@ -7,7 +7,7 @@
 
 ### 🚀 Tech Stack & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,js,react,python,java,figma,vscode,git,github&theme=light" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,js,react,java,figma,vscode,git,github&theme=light" alt="Tech Stack Icons" />
 </p>
 
 ---
@@ -49,23 +49,5 @@
 
 ---
 
-### 📬 Let’s Connect  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nsengiyumva-yves-olivier" target="_blank" title="LinkedIn Profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/olivier010_" target="_blank" title="Twitter / X Profile">
-    <img src="https://img.shields.io/badge/Twitter%20(X)-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X" />
-  </a>
-  <a href="https://www.youtube.com/@olivieryves" target="_blank" title="YouTube Channel">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://olivieryves.netlify.app" target="_blank" title="Portfolio Website">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
----
 
 <h4 align="center">“Code is not just syntax. It’s poetry in logic.”</h4>
